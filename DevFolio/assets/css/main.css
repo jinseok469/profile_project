@@ -788,7 +788,7 @@ section,
   width: 64px;
   height: 3px;
   background: var(--accent-color);
-  left: 0;
+  left: 45%;
   bottom: 0;
   margin: auto;
 }
@@ -1014,7 +1014,7 @@ section,
   right: 30px;
   bottom: 0;
   z-index: 3;
-  transition: all ease-in-out 0.3s;
+  transition: all ease-in-out 0.2s;
   background: color-mix(in srgb, var(--background-color), transparent 10%);
   padding: 15px;
 }
@@ -1039,7 +1039,7 @@ section,
   font-size: 24px;
   top: calc(50% - 14px);
   color: color-mix(in srgb, var(--default-color), transparent 30%);
-  transition: 0.3s;
+  transition: 0.2s;
   line-height: 0;
 }
 
